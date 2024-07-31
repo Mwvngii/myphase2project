@@ -21,11 +21,13 @@ On carrying out data analysis, we shall be creating visualizations in order to g
 
 ## Conclusions and Recommendations
 _*Summary*_
-1. **Genre Performance According to Average Domestic and Foreign Revenue**
-Investing on high performing genres- Based on the analysis we have made, by both average domestic and foreign revenue generation, sci-fi films is the genre ranked as the highest average gross revenue creator. Action, Adventure and Family movies have also been consistently showing high average gross revenues both locally and internationally. Therefore, when focussing on producing films, I would recommend making more films related to such genres.
+1. **Genre Performance According to Average Domestic and Foreign Revenue.**
+Investing on high performing genres:
+Based on the analysis we have made, by both average domestic and foreign revenue generation, sci-fi films is the genre ranked as the highest average gross revenue creator. Action, Adventure and Family movies have also been consistently showing high average gross revenues both locally and internationally. Therefore, when focussing on producing films, I would recommend making more films related to such genres.
 
-2. **Studio Performance**
-Strategic partnerships- Collaborating with studios that are recorded to produce high-grossing movies such as BV, Universal, Fox and  Warner Bros movie studios can lead to yielding good returns. Learning from their expertise by adopting their practices can be very beneficial to our new movie studio.
+2.  **Studio Performance.**
+Strategic partnerships:
+Collaborating with studios that are recorded to produce high-grossing movies such as BV, Universal, Fox and  Warner Bros movie studios can lead to yielding good returns. Learning from their expertise by adopting their practices can be very beneficial to our new movie studio.
 
-3 **Trend of Average Annual Gross Revenue over the years**
+3. **Trend of Average Annual Gross Revenue over the years.**
 Between 2010 and 2018, there has been a relative surge in the average amount of gross revenue been created by films. This means that the movie production industry is been considered quite a valuable investment as of now and by diving into this industry at this moment, there might just be a likelihood of success in our business(considering the above recommendations too).
