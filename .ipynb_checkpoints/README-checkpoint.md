@@ -1,8 +1,7 @@
-# VENNTURING INTO FILM INDUSTRY 
+# VENNTURING INTO FILM INDUSTRY- PHASE 2 PROJECT
+![alt text](Images/movies.jpeg)
 
-<img src="" />
-
-## Project Overview¶
+## Project Overview    
 The goal of this project is to generate insights that will guide the business stakeholders, specifically the head of our new movie studio company in determining which films to create for viewers. We shall use exploratory data analysis(EDA) on our movie-related datasets and analyze trends in the data in order to provide actionable insights and recommendations to ensure success in our new company.
 
 
@@ -14,13 +13,24 @@ Our company is venturing into the film industry by creating a new movie studio a
 
 ## Data Understanding
 For this project, we shall be working with data from multiple sources including a relational database `IM.DB` with tables `movie basics` and `movie ratings` being our key focus and a csv file containing data on revenue generated from various box office movies `bom.movie_gross.csv`. Merging these datasets is crucial so as to get comprehensive meaningful conclusions and recommendations.
+![alt text](Images/movie_data_erd.jpeg)
 
 ## Data Analysis/Cleaning
 Cleaning our data is effective in getting good analysis for our visualizations. We shall use various functions during data cleaning to handle missing values, duplicates, mixed data types etc.
 On carrying out data analysis, we shall be creating visualizations in order to gather insights and find befitting recommendations for our new studio company.
 
+**_Genre vs Average Domestic and Foreign Gross Revenue_**
+![alt text](Images/visual1.png)
+
+**_Studio vs Total Gross Revenue_**
+![alt text](Images/visual2.png)
+
+**_Average Total Gross Revenue vs Year_**
+![alt text](Images/visual3.png)
+
+
 ## Conclusions and Recommendations
-_*Summary*_
+_Summary_
 1. **Genre Performance According to Average Domestic and Foreign Revenue.**
 Investing on high performing genres:
 Based on the analysis we have made, by both average domestic and foreign revenue generation, sci-fi films is the genre ranked as the highest average gross revenue creator. Action, Adventure and Family movies have also been consistently showing high average gross revenues both locally and internationally. Therefore, when focussing on producing films, I would recommend making more films related to such genres.
